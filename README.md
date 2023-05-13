@@ -43,10 +43,7 @@
    <img alt="MongoDB" src="https://img.shields.io/badge/-Crystal-000000?style=for-the-badge&logo=crystal&logoColor=white" />
    <img alt="MongoDB" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <br>
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-   <img alt="npm" src="https://img.shields.io/badge/-DevExpress-FF7200?style=for-the-badge&logo=devexpress&logoColor=white" />
    <img alt="npm" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
  <br><br>
 <br>
