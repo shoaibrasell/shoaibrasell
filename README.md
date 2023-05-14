@@ -6,7 +6,6 @@
     <img src="https://komarev.com/ghpvc/?username=shoaibrasell&color=green"/>
     </div>
     <hr>
-
 <h2 align="center">  ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~  </h2>
   
 <li>
@@ -27,9 +26,7 @@
 <h2 align="center">            ~  𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮  ~</h2>
  <br>
 <p>
-  <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibrasell&layout=Demo&count_private=true" align="right">
-  </div>
+ >
 </div>
 <div>
   <br>
@@ -55,16 +52,7 @@ most used  Stuff </p>
 <br>
 <div>
 <h2 align="center"> ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ </h2>
-<hr>
-</div>
-    <p align="center" >  
-  <a href="https://github.com/shoaibrasell"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=shoaibrasell&&show_icons=true&theme=radical&count_private=true"/>
-  </a>
-  </p>
-    
-    
-    
+
 </div>
     </center>
 </body>
