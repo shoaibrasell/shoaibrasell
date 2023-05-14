@@ -26,10 +26,8 @@
 <h2 align="center">            ~  𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮  ~</h2>
  <br>
 <p>
- >
 </div>
 <div>
-  <br>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
 <br>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
@@ -49,7 +47,6 @@ most used  Stuff </p>
 <p align="center"><a href="https://twitter.com/ShoaibRasell" target="_blank"><img src="https://img.shields.io/badge/Shoaib Ullah Rasel%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <p align="center"> <a href="https://facebook.com/shoaibullah.rasel" target="_blank"><img src="https://img.shields.io/badge/Shoaib Ullah Rasel-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a> <a href="https://www.linkedin.com/in/shoaibrasell" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Shoaib Ullah Rasel-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 </div>
-<br>
 <div>
 <h2 align="center"> ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ </h2>
 
