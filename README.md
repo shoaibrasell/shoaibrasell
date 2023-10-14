@@ -12,7 +12,7 @@
  <b>Name:</b> <a href='' target=_blank>Shoaib Ullah Rasel</a></li>
 
 <li>
-<b>Loves:</b> bike riding, Gaming , travelling.
+<b>Loves:</b> Gaming , travelling.
 </li>
 <li>
 <b>Gender:</b> Male 
