@@ -31,17 +31,13 @@
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
 <br>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
- <br>
  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/>
  <img src="https://img.shields.io/badge/Github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
   <br>
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
- <br><br>
-<br>
 <h2 align="center">            ~ Contact me ~ </h2>
-  
-<br>
+
 <p align="center">Here some of my <br>
 most used  Stuff </p>
 <p align="center"><a href="https://twitter.com/ShoaibRasell" target="_blank"><img src="https://img.shields.io/badge/Shoaib Ullah Rasel%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
@@ -49,7 +45,6 @@ most used  Stuff </p>
 </div>
 <div>
 <h2 align="center"> ~ THanks for Reading! ~ </h2>
-
 </div>
     </center>
 </body>
