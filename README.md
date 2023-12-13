@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=shoaibrasell&color=green"/>
     </div>
     <hr>
-<h2 align="center">  ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~  </h2>
+<h2 align="center">  ~About me~ </h2>
   
 <li>
  <b>Name:</b> <a href='' target=_blank>Shoaib Ullah Rasel</a></li>
