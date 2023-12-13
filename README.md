@@ -39,7 +39,7 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
  <br><br>
 <br>
-<h2 align="center">            ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ </h2>
+<h2 align="center">            ~ Contact me ~ </h2>
   
 <br>
 <p align="center">Here some of my <br>
@@ -48,7 +48,7 @@ most used  Stuff </p>
 <p align="center"> <a href="https://facebook.com/shoaibullah.rasel" target="_blank"><img src="https://img.shields.io/badge/Shoaib Ullah Rasel-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a> <a href="https://www.linkedin.com/in/shoaibrasell" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Shoaib Ullah Rasel-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 </div>
 <div>
-<h2 align="center"> ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ </h2>
+<h2 align="center"> ~ THanks for Reading! ~ </h2>
 
 </div>
     </center>
