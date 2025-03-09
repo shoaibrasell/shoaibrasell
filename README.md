@@ -18,12 +18,12 @@
 <b>Gender:</b> Male 
 </li>
 <li>
-<b>Hobbys:</b> Tech Stuff, Web Development, Explore New Stuff.
+<b> Hobbies:</b> Tech Stuff, Web Development, Explore New Stuff.
 </li>
 <br><br><br>
 </div>
 <div>
-<h2 align="center">            ~  𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮  ~</h2>
+<h2 align="center">       ~  𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮  ~</h2>
  <br>
 <p>
 </div>
